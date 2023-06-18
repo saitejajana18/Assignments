@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-
-
 
 hi my name is saiteja
 
 hi my name is jana
-
-
-=======
-hi my name is Kota saiteja 
->>>>>>> 489469e (comited sample txt f-j18-1)
