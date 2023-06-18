@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 hi my name is saiteja
 
 hi my name is jana
+=======
+hi my name is saiteja jana
+>>>>>>> 3f16959 (Update sample.txt in feauture jun 18 1)
